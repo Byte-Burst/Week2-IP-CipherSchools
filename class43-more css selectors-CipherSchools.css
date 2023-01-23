@@ -1,0 +1,28 @@
+
+header p{
+    color: red;
+}
+
+header{
+    background-color: #f0ebeb;
+}
+
+section.my-article h2{
+    background-color: #f2e9e9;
+}
+
+li a{
+    color: blue;
+}
+
+section.my-article > h2{
+    color: green;
+}
+
+h2+p{
+    color: orangered;
+}
+
+ul+p{
+    color: green;
+}

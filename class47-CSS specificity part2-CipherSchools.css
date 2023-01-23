@@ -1,0 +1,10 @@
+
+div#container ul.my-songs li{
+    color: brown;
+    background: yellow;
+}
+
+div#container ul.my-songs .favourite{
+    color: yellow;
+    background: brown;
+}

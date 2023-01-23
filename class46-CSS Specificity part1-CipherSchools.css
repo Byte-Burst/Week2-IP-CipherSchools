@@ -1,0 +1,12 @@
+
+h1{
+    color: green;
+}
+
+h1.heading{
+    color: magenta;
+}
+
+.h1class{
+    color: red;
+}

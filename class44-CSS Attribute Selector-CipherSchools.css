@@ -1,0 +1,11 @@
+
+input[type ^="t"]{
+    color: forestgreen;
+}
+
+input[type="password"]{
+    background-color: pink;
+}
+a[href $= ".com"]{
+    color: red;
+}
